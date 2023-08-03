@@ -1,0 +1,7 @@
+*.crf
+*.d
+*.o
+*.hex
+*.axf
+*.zip
+*.bin
